@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryLight">#81312f</color> <!-- 181 C -->
+    <color name="colorPrimary">#752935</color> <!-- ~ 188 C -->
+    <color name="colorPrimaryDark">#5d2a2c</color> <!-- 490 C -->
+    <color name="colorAccent">#912f46</color> <!-- 7637 C -->
+
+    <color name="ic_launcher_background">@color/colorPrimary</color>
+
+</resources>
